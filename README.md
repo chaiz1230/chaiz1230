@@ -11,9 +11,9 @@
 
 ### 🚀 About Me
 
-- 🎓 3rd-year Computer Science student at Pamantasan ng Lungsod ng Maynila.
-- 📊 Strong interest in Data Science, Machine Learning, and Web Development.
-- 💻 Hands-on experience in Java, Android Studio, and Figma.
+- 🎓 4th-year Computer Science student at Pamantasan ng Lungsod ng Maynila.
+- 📊 Strong interest in Data Science, Machine Learning, Network and Web Development.
+- 💻 Hands-on experience in Java, Android Studio, Cisco and Figma.
 - 🎨 Passionate about front-end coding and MySQL database management.
 - 🤝 Always open to collaboration and building cool things! ✨
 
